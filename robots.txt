@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xotheom.github.io/sitemap.html.gz
+Sitemap: https://xotheom.github.io/app/sitemap.html.gz
+Sitemap: https://xotheom.github.io/assets/sitemap.html.gz
+Sitemap: https://xotheom.github.io/css/sitemap.html.gz
+Sitemap: https://xotheom.github.io/includes/sitemap.html.gz
+Sitemap: https://xotheom.github.io/item/sitemap.html.gz
+Sitemap: https://xotheom.github.io/src/sitemap.html.gz
